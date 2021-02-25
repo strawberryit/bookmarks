@@ -12,7 +12,15 @@ header = """
 
 footer = """
 ## Usage
-### Generate `README.md`
+### Preview commit
+```
+$ ./build
+```
+### Commit changes
+```
+$ ./build apply
+```
+### Generate `README.md` manually
 ```
 $ python3 build.py
 ```
