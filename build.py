@@ -44,7 +44,7 @@ for file in files:
 
 for document in documents:
     title = re.sub('docs/|\.md', '', document).capitalize()
-    readme.write(f"* [{title}](#{document})\n")
+    readme.write(f"* [{title}]({document})\n")
 
 
 #for directory in directories:

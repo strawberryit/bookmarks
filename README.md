@@ -1,6 +1,6 @@
 
 # Bookmarks
-* [Terraform](#docs/terraform.md)
+* [Terraform](docs/terraform.md)
 
 ## Usage
 ### Preview commit
@@ -15,3 +15,4 @@ $ ./build apply
 ```
 $ python3 build.py
 ```
+
