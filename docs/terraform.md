@@ -11,6 +11,8 @@
 - [[우아한형제들] 좌충우돌 Terraform 입문기](https://woowabros.github.io/tools/2019/09/20/terraform.html)
 - [[Modusign] Terraform + AWS 셋팅하기 Part 1](https://medium.com/modusign/terraform-aws-%EC%85%8B%ED%8C%85%ED%95%98%EA%B8%B0-part-1-a3dae9f5fbbd)
 - [[Modusign] Terraform + AWS 셋팅하기 Part 2](https://medium.com/modusign/terraform-aws-%EC%85%8B%ED%8C%85%ED%95%98%EA%B8%B0-part-2-7e601e880273)
+- [AWS VPC Network with Terraform](https://blog.2dal.com/2017/09/17/aws-vpc-network-with-terraform/)
+- [AWS VPC with Terraform Modules](https://blog.2dal.com/2017/10/28/aws-vpc-with-terraform-modules/)
 
 ### tfenv
 - [tfenv로 테라폼 버전 관리하기](https://www.44bits.io/ko/post/managing-teraform-versions-with-tfenv)

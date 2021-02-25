@@ -5,5 +5,3 @@
 - [Using a Network Load Balancer with the NGINX Ingress Controller on Amazon EKS](https://aws.amazon.com/ko/blogs/opensource/network-load-balancer-nginx-ingress-controller-eks/)
 - [Create EKS in less than 2 minutes using terraform](https://dev.to/devopsmedium/create-eks-in-less-than-2-minutes-using-terraform-481f)
 - [Provisioning Kubernetes clusters on AWS with Terraform and EKS](https://learnk8s.io/terraform-eks)
-- [AWS VPC Network with Terraform](https://blog.2dal.com/2017/09/17/aws-vpc-network-with-terraform/)
-- [AWS VPC with Terraform Modules](https://blog.2dal.com/2017/10/28/aws-vpc-with-terraform-modules/)
