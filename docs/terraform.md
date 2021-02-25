@@ -6,3 +6,4 @@
 - [[Terraform] Infrastructure as code(IaC) 시작하기](https://jybaek.tistory.com/897)
 - [[Terraform] concept](https://jybaek.tistory.com/898)
 - [[Terraform] providers, resource, variables, output, data](https://jybaek.tistory.com/899)
+- [DevOps Workshop(Infrastructure as Code)](https://devops-art-factory.gitbook.io/devops-workshop/terraform/iac)
