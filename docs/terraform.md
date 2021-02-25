@@ -32,3 +32,4 @@
 - [terraform-aws-eks](https://registry.terraform.io/modules/terraform-aws-modules/eks/aws/latest)
 
 ### Troubleshooting
+- [Backend S3: NoSuchBucket #16611](https://github.com/hashicorp/terraform/issues/16611)
