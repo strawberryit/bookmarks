@@ -7,3 +7,4 @@
 - [[Terraform] concept](https://jybaek.tistory.com/898)
 - [[Terraform] providers, resource, variables, output, data](https://jybaek.tistory.com/899)
 - [DevOps Workshop(Infrastructure as Code)](https://devops-art-factory.gitbook.io/devops-workshop/terraform/iac)
+- [[English] Terraform: Remote State](https://medium.com/@nate_mitchell/terraform-remote-state-ab8154177ea9)
