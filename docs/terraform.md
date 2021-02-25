@@ -10,6 +10,7 @@
 
 ### tfstate
 - [Terraform의 tfstate를 원격으로 관리하기](https://blog.outsider.ne.kr/1290)
+- [S3로 Terraform State file 관리하기](https://rampart81.github.io/post/terraform-remote-state-file/)
 
 ### Remote state
 - [Terraform간에 리소스 공유 (Remote State)](https://blog.outsider.ne.kr/1303)
