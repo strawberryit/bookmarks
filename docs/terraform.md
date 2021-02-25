@@ -23,3 +23,4 @@
 - [How to Leverage HashiCorp Terraform Remote State](https://www.ahead.com/resources/how-to-leverage-hashicorp-terraform-remote-state/)
 
 ### Terraform modules
+- [terraform-aws-eks](https://registry.terraform.io/modules/terraform-aws-modules/eks/aws/latest)
