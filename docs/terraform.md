@@ -8,6 +8,8 @@
 - [[Terraform] providers, resource, variables, output, data](https://jybaek.tistory.com/899)
 - [DevOps Workshop(Infrastructure as Code)](https://devops-art-factory.gitbook.io/devops-workshop/terraform/iac)
 
+### tfstate
+
 ### Remote state
 - [Terraform간에 리소스 공유 (Remote State)](https://blog.outsider.ne.kr/1303)
 - [Terraform의 remote_state 활용하기](https://brunch.co.kr/@alden/51)
