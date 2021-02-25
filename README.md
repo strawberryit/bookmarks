@@ -1,5 +1,6 @@
 
 # Bookmarks
+* [Eks](docs/eks.md)
 * [Terraform](docs/terraform.md)
 
 ## Usage
@@ -15,4 +16,3 @@ $ ./build apply
 ```
 $ python3 build.py
 ```
-
