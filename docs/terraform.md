@@ -10,5 +10,6 @@
 
 ### Remote state
 - [Terraform간에 리소스 공유 (Remote State)](https://blog.outsider.ne.kr/1303)
+- [Terraform의 remote_state 활용하기](https://brunch.co.kr/@alden/51)
 - [[English] Terraform: Remote State](https://medium.com/@nate_mitchell/terraform-remote-state-ab8154177ea9)
 - [How to Leverage HashiCorp Terraform Remote State](https://www.ahead.com/resources/how-to-leverage-hashicorp-terraform-remote-state/)
