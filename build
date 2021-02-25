@@ -3,7 +3,7 @@ python3 build.py
 
 msg=$( git --no-pager diff -U0 ':(exclude)README.md' ':(exclude)build' | \
     tail -n +6 | \
-    sed -E -e 's#[^\[]+\[|\)##g' -e 's#\]\(# #g' )
+    sed -E -e 's#[^\[]+\[|\)$|\)[ ]+##g' -e 's#\]\(# #g' )
 
 echo "Commit message:"
 echo "  '${msg}'"
