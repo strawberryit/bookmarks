@@ -8,6 +8,7 @@
 - [[Terraform] providers, resource, variables, output, data](https://jybaek.tistory.com/899)
 - [DevOps Workshop(Infrastructure as Code)](https://devops-art-factory.gitbook.io/devops-workshop/terraform/iac)
 - [Terraform Get Started - AWS](https://learn.hashicorp.com/collections/terraform/aws-get-started)
+- [[우아한형제들] 좌충우돌 Terraform 입문기](https://woowabros.github.io/tools/2019/09/20/terraform.html)
 
 ### tfenv
 - [tfenv로 테라폼 버전 관리하기](https://www.44bits.io/ko/post/managing-teraform-versions-with-tfenv)
