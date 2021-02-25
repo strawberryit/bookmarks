@@ -28,4 +28,5 @@
 - [How to Leverage HashiCorp Terraform Remote State](https://www.ahead.com/resources/how-to-leverage-hashicorp-terraform-remote-state/)
 
 ### Terraform modules
+- [launch-template](https://registry.terraform.io/modules/figurate/launch-template/aws/latest)
 - [terraform-aws-eks](https://registry.terraform.io/modules/terraform-aws-modules/eks/aws/latest)
