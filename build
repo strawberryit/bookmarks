@@ -1,15 +1,15 @@
 #!/bin/bash
 python3 build.py
 
-msg=$( git --no-pager diff -U0 ':(exclude)README.md' | \
+msg=$( git --no-pager diff -U0 ':(exclude)README.md' ':(exclude)build' | \
     tail -n +6 | \
-    sed -E -e 's#.*\[|\)##g' -e 's#\]\(# #g' )
+    sed -E -e 's#[^\[]+\[|\)##g' -e 's#\]\(# #g' )
 
 echo "Commit message:"
 echo "  '${msg}'"
 echo ""
 echo "git diff:"
-git --no-pager diff -U0 ':(exclude)README.md' | tail -n +6
+git --no-pager diff -U0 ':(exclude)README.md' ':(exclude)build' | tail -n +6
 
 if [[ $1 == "apply" ]]; then
     git add .
