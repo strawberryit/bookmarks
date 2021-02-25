@@ -9,6 +9,7 @@
 - [DevOps Workshop(Infrastructure as Code)](https://devops-art-factory.gitbook.io/devops-workshop/terraform/iac)
 
 ### tfstate
+- [Terraform의 tfstate를 원격으로 관리하기](https://blog.outsider.ne.kr/1290)
 
 ### Remote state
 - [Terraform간에 리소스 공유 (Remote State)](https://blog.outsider.ne.kr/1303)
