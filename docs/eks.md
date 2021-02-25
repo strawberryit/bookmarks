@@ -6,3 +6,4 @@
 - [Create EKS in less than 2 minutes using terraform](https://dev.to/devopsmedium/create-eks-in-less-than-2-minutes-using-terraform-481f)
 - [Provisioning Kubernetes clusters on AWS with Terraform and EKS](https://learnk8s.io/terraform-eks)
 - [[AWS] Amazon EKS Kubernetes versions](https://docs.aws.amazon.com/eks/latest/userguide/kubernetes-versions.html)
+- [[Terraform] Provision an EKS Cluster (AWS)](https://learn.hashicorp.com/tutorials/terraform/eks)
