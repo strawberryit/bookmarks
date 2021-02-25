@@ -5,3 +5,4 @@
 - [Terraform 통한 Iac(Infrastructure As Code) 365일간 운영 후기](https://medium.com/@dudwls96/terraform-통한-iac-infrastructure-as-code-365일간-운영-후기-500737e6c1e6)
 - [[Terraform] Infrastructure as code(IaC) 시작하기](https://jybaek.tistory.com/897)
 - [[Terraform] concept](https://jybaek.tistory.com/898)
+- [[Terraform] providers, resource, variables, output, data](https://jybaek.tistory.com/899)
