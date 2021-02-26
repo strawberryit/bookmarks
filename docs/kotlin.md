@@ -4,3 +4,7 @@
 - 🖼 [카카오톡의 서버사이드 코틀린](https://tv.kakao.com/channel/3150758/cliplink/391419295)
 - 🖼 [이펙티브 자바와 코틀린 by 전경주](https://youtu.be/QIRJKIDLZgU)
 - 🖼 🇯🇵 [코틀린의 단순하고 현대적인 서버 측면 엔지니어링 -일본어 버전-](https://youtu.be/bH1PTncifBk)
+
+### Scope function
+- [코틀린 의 apply, with, let, also, run 은 언제 사용하는가?](https://medium.com/@limgyumin/%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%9D%98-apply-with-let-also-run-%EC%9D%80-%EC%96%B8%EC%A0%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%EA%B0%80-4a517292df29)
+- 🇺🇸 [Kotlin Standard Functions cheat-sheet](https://medium.com/androiddevelopers/kotlin-standard-functions-cheat-sheet-27f032dd4326)
