@@ -1,5 +1,5 @@
 # Terraform
-- 🖼 [#1 테라폼으로 글로벌 서비스 구성](https://youtu.be/RxTjHOk4yec)
+- 🖼 [Korea HashiCorp User Group 2019 - #1 테라폼으로 글로벌 서비스 구성](https://youtu.be/RxTjHOk4yec)
 - 🖼 [Korea HashiCorp User Group 2019 - #2 Advanced Terraform](https://youtu.be/K5Cz-DGEHo4)
 - [Terraform 0.12로 테라폼 코드 업그레이드하기](https://blog.outsider.ne.kr/1461)
 - [Terraform 0.13으로 테라폼 코드 업그레이드하기](https://blog.outsider.ne.kr/1516)
