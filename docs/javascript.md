@@ -11,3 +11,7 @@
 ### TypeScript
 - [올해 버려야 할 타입스크립트 나쁜 버릇 10가지](https://ui.toast.com/weekly-pick/ko_20210217)
 - [TypeScript enum을 사용하지 않는 게 좋은 이유를 Tree-shaking 관점에서 소개합니다.](https://engineering.linecorp.com/ko/blog/typescript-enum-tree-shaking/)
+
+### Clean Code
+- [Clean Code - JavaScript](https://github.com/qkraudghgh/clean-code-javascript-ko)
+- [Clean Code - TypeScript](https://github.com/738/clean-code-typescript)
