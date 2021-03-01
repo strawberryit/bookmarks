@@ -35,3 +35,6 @@
 
 ### Troubleshooting
 - [Backend S3: NoSuchBucket #16611](https://github.com/hashicorp/terraform/issues/16611)
+
+### Security
+- [Terrascan - A static code analyzer for Infrastructure as Code](https://github.com/accurics/terrascan)
