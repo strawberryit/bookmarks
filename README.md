@@ -2,6 +2,7 @@
 # Bookmarks
 * [Container](docs/container.md)
 * [Eks](docs/eks.md)
+* [Javascript](docs/javascript.md)
 * [Kotlin](docs/kotlin.md)
 * [Markdown](docs/markdown.md)
 * [Modern_linux](docs/modern_linux.md)
