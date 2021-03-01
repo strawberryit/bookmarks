@@ -7,3 +7,6 @@
   3. WeakRef
   4. Logical Assignment Operators (&&= ||= ??=)
   5. Numeric Separators
+
+### TypeScript
+- [올해 버려야 할 타입스크립트 나쁜 버릇 10가지](https://ui.toast.com/weekly-pick/ko_20210217)
