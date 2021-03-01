@@ -4,6 +4,7 @@
 * [Eks](docs/eks.md)
 * [Kotlin](docs/kotlin.md)
 * [Markdown](docs/markdown.md)
+* [Modern_linux](docs/modern_linux.md)
 * [Terraform](docs/terraform.md)
 
 ## Usage
