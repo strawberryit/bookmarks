@@ -4,7 +4,7 @@
 - 📖 [컨테이너 보안 <small>(컨테이너화된 응용 프로그램의 보안을 위한 개념, 이론, 대응법과 모범 관행까지)</small>](https://ridibooks.com/books/443000868)
 
 ### Dockerfile
-- 🇺🇸 [Dockerfile best practices](https://github.com/hexops/dockerfile) [🖼Youtube](https://youtu.be/uGEX-R8qdsk?t=1798)
+- 🇺🇸 [Dockerfile best practices](https://github.com/hexops/dockerfile) [🎬Youtube](https://youtu.be/uGEX-R8qdsk?t=1798)
 
 ### Kubernetes and Docker
 - [당황하지 마세요. 쿠버네티스와 도커](https://kubernetes.io/ko/blog/2020/12/02/dont-panic-kubernetes-and-docker/)
