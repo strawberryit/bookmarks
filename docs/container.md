@@ -11,3 +11,8 @@
 - [쿠버네티스는 더이상 런타임 도커를 지원하지 않는다고 발표했다.](https://kwiki.devserum.com/articles/tech-articles/kubernetes-is-deprecating-docker-as-a-container-runtime-after-v1-20)
 - [쿠버네티스, 도커 지원 중단](https://subicura.com/k8s/2020/12/19/deprecate-docker/)
 - [쿠버네티스는 도커를 버리는 중입니다](https://velog.io/@roeniss/쿠버네티스는-도커를-버리는-중입니다)
+
+
+### Docker alternatives
+- [Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)](https://github.com/lima-vm/lima)
+- [containerd & Lima: Open source alternative to Docker for Mac](https://medium.com/nttlabs/containerd-and-lima-39e0b64d2a59)
