@@ -1,5 +1,6 @@
 
 # Bookmarks
+* [Conference](docs/conference.md)
 * [Container](docs/container.md)
 * [Eks](docs/eks.md)
 * [Git](docs/git.md)
