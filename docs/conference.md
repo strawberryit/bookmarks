@@ -17,6 +17,6 @@
 
 ### 11월
 - 🇯🇵 [CloudNative Days 2021 Tokyo](https://event.cloudnativedays.jp/cicd2021) (11.4 ~ 11.5)
-- 🇰🇷 🇯🇵 [Line Developer Day 2021](https://twitter.com/line_developers/status/1415248131889909765?s=20) (11.10 ~ 11.11)
+- 🇰🇷 🇯🇵 [Line Developer Day 2021](https://linedevday.linecorp.com/2021/ko) (11.10 ~ 11.11)
 - 우아콘 2021 (11.17 ~ 11.19)
 - [Samsung Software Developer Conference 2021](https://www.soscon.net/ssdc2021) (11.17 ~ 11.18)
