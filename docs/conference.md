@@ -4,7 +4,7 @@
 - 🎬 [GDG Android I/O Extended Korea Android 2021](https://www.youtube.com/watch?v=NIGV-NUf1pQ)
 ### 9월
 - 🎬 [Droid Knight 2021](https://www.youtube.com/playlist?list=PLu8dnNjU2FmsROfv5pNAvhRiOFVN_EmnV) (09.25)
-
+- [Ubucon Asia 2021](https://2021.ubucon.asia/news/2021-10-05-restream-schedule/) 🎬 [Youtube](https://www.youtube.com/channel/UCdy5ggH4LKgUyr0WIH9DPwQ/playlists) (09.25 ~ 09.26) 
 
 ### 10월
 - [Pycon 2021](https://2021.pycon.kr) [🎬 Youtube](https://www.youtube.com/PyConKRtube) (10.02 ~ 10.03)
