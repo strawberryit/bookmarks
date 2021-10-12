@@ -12,6 +12,7 @@
 - [Arm dev summit](https://devsummit.arm.com/ko/about) (10.19 ~ 10.21)
 - 🇯🇵 [DroidKaigi 2021](https://droidkaigi.jp/2021/en/) (10.19 ~ 10.21)
 - [SKT NUGU Conference 2021](https://nuguconference2021.com/) (10.20)
+- [AWS Innovate Modern Applications edition](https://aws.amazon.com/ko/events/aws-innovate/modern-apps/) (10.27 ~ 10.28)
 - 🇺🇸 [Github Universe 2021](https://githubuniverse.com) (10.27 ~ 10.28)
 - [FEConf 2021](https://2021.feconf.kr/) (10.30)
 
