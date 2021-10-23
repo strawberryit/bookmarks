@@ -5,6 +5,7 @@
 - 🎬 [이펙티브 자바와 코틀린 by 전경주](https://youtu.be/QIRJKIDLZgU)
 - 🎬 🇯🇵 [코틀린의 단순하고 현대적인 서버 측면 엔지니어링 -일본어 버전-](https://youtu.be/bH1PTncifBk)
 - 🎬 [디모의 Kotlin 강좌](https://www.youtube.com/watch?v=8RIsukgeUVw&list=PLQdnHjXZyYadiw5aV3p6DwUdXV2bZuhlN)
+- 🎬 [레진코믹스는 어떻게 Kotlin을 적용하고 있을까? by 우명인 (2017)](https://youtu.be/Z4DTCGK-FRI)
 - 📖 [코틀린 쿡북 <small>(85가지 문제 중심 레시피로 완성하는 코틀린 프로그래밍)</small>](https://ridibooks.com/books/3649000014)
 
 ### Scope function
