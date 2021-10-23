@@ -21,3 +21,25 @@
 - 🇰🇷 🇯🇵 [Line Developer Day 2021](https://linedevday.linecorp.com/2021/ko) (11.10 ~ 11.11)
 - 우아콘 2021 (11.17 ~ 11.19)
 - [Samsung Software Developer Conference 2021](https://www.soscon.net/ssdc2021) (11.17 ~ 11.18)
+
+---
+
+## 2020년
+- [🎬 IF KAKAO 2020](https://if.kakao.com/session)
+- [🎬 DEVIEW 2020](https://deview.kr/2020/sessions)
+- [PyCon 2020](https://pycon.kr/2020) [🎬 Youtube](https://www.youtube.com/playlist?list=PLZPhyNeJvHRk9wIL9rZekFLIfT3aVcHT7)
+- 🇯🇵 DroidKaigi 2020 [🎬 Youtube](https://www.youtube.com/playlist?list=PLaOdaBFokChyw94Fqp_SxZ0MNgv5sMMJm)
+- 🇯🇵 DroidKaigi 2020 Lite [🎬 Youtube Day1](https://www.youtube.com/playlist?list=PLaOdaBFokChwXJ608fBHVdHqNwnLOMoe6) [Day2](https://www.youtube.com/playlist?list=PLaOdaBFokChzx6lXOcc6KOqzjIOLgEI94)
+
+---
+
+## 2019년
+- [🎬 IF KAKAO 2019](https://if.kakao.com/2019/program)
+- [🎬 DEVIEW 2019](https://deview.kr/2019/schedule)
+- [PyCon 2019](https://archive.pycon.kr/2019/) [🎬 Youtube](https://www.youtube.com/playlist?list=PLZPhyNeJvHRlECdmkJ7M8konKB0NhBfve)
+---
+
+## 2018년
+- [🎬 IF KAKAO 2018](https://if.kakao.com/2018/program)
+- [🎬 DEVIEW 2018](https://deview.kr/2018/schedule)
+- [PyCon 2018](https://archive.pycon.kr/2018/) [🎬 Youtube](https://www.youtube.com/playlist?list=PLZPhyNeJvHRmnMr5yucZ9Eu-yVhjRRsOM)
