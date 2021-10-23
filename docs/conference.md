@@ -37,6 +37,8 @@
 - [🎬 IF KAKAO 2019](https://if.kakao.com/2019/program)
 - [🎬 DEVIEW 2019](https://deview.kr/2019/schedule)
 - [PyCon 2019](https://archive.pycon.kr/2019/) [🎬 Youtube](https://www.youtube.com/playlist?list=PLZPhyNeJvHRlECdmkJ7M8konKB0NhBfve)
+- Kotlin Meetup Seoul 2019 [🎬 Youtube](https://www.youtube.com/playlist?list=PLQ176FUIyIUYg5T9uRt5YMev9s1yAOHYA)
+
 ---
 
 ## 2018년
