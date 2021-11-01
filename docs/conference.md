@@ -8,6 +8,7 @@
 
 ### 10월
 - [Pycon 2021](https://2021.pycon.kr) [🎬 Youtube](https://www.youtube.com/PyConKRtube) (10.02 ~ 10.03)
+- 🇺🇸 [KubeCon + CloudNativeCon North America 2021](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) [🎬 Youtube](https://www.youtube.com/playlist?list=PLj6h78yzYM2Nd1U4RMhv7v88fdiFqeYAP) (10.11 ~ 15)
 - [Red Hat Forum 2021](https://www.redhat.com/ko/red-hat-forum-apac-2021) (10.13)
 - [Arm dev summit](https://devsummit.arm.com/ko/about) (10.19 ~ 10.21)
 - 🇯🇵 [DroidKaigi 2021](https://droidkaigi.jp/2021/en/) (10.19 ~ 10.21) [🎬 Youtube](https://www.youtube.com/playlist?list=PLaOdaBFokChwyYpRl3jkqjCC4I6Jmb5Jg)
