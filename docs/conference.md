@@ -24,6 +24,7 @@
 - [우아콘 2021](https://woowacon.com) (11.17 ~ 11.19)
 - [당근 SRE 밋업 2회](https://festa.io/events/1912) (11.17)
 - [Samsung Software Developer Conference 2021](https://www.soscon.net/ssdc2021) (11.17 ~ 11.18)
+- [DEVIEW 2021](https://deview.kr/2021) (11.24 ~ 26)
 
 ---
 
