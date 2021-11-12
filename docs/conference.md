@@ -13,7 +13,7 @@
 - [Arm dev summit](https://devsummit.arm.com/ko/about) (10.19 ~ 10.21)
 - 🇯🇵 [DroidKaigi 2021](https://droidkaigi.jp/2021/en/) (10.19 ~ 10.21) [🎬 Youtube](https://www.youtube.com/playlist?list=PLaOdaBFokChwyYpRl3jkqjCC4I6Jmb5Jg)
 - [SKT NUGU Conference 2021](https://nuguconference2021.com/) (10.20)
-- [AWS Innovate Modern Applications edition](https://aws.amazon.com/ko/events/aws-innovate/modern-apps/) (10.27 ~ 10.28)
+- [AWS Innovate Modern Applications edition](https://aws.amazon.com/ko/events/aws-innovate/modern-apps/) (10.27 ~ 10.28) [🎬 Youtube](https://kr-resources.awscloud.com/aws-modern-applications-innovate-kr?sc_channel=em&sc_campaign=APAC_FIELD_T1_kr-innovate-modern-apps_20211027_7014z000000rPj2&sc_publisher=aws&sc_medium=em_433314&sc_content=field_t1event_field&sc_country=kr&sc_geo=apac&sc_category=mult&sc_outcome=field&trkcampaign=innovate-mad&trk=em_inv4_kr_innovate_mad&mkt_tok=MTEyLVRaTS03NjYAAAGAghbN_JVgLE7W8OA7yvFZih1ZrzWNJwKNK-0BpAzHmJoZ0Yy4cIdZrxEkkuw1BFThgbszVsrzqPlEh_6j5BVjbpA29VRqOmedfS5MMz1Voj9TgDkj2ap0)
 - 🇺🇸 [Github Universe 2021](https://githubuniverse.com) (10.27 ~ 10.28)
 - [FEConf 2021](https://2021.feconf.kr/) (10.30) [🎬 Youtube Track A](https://www.youtube.com/playlist?list=PLZl3coZhX98p6gwel6QW86QUwuAmTEZBo) [🎬 Track B](https://www.youtube.com/playlist?list=PLZl3coZhX98qv9ixNHWYkUOnwnW8xXvqD)
 
