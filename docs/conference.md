@@ -15,7 +15,7 @@
 - [SKT NUGU Conference 2021](https://nuguconference2021.com/) (10.20)
 - [AWS Innovate Modern Applications edition](https://aws.amazon.com/ko/events/aws-innovate/modern-apps/) (10.27 ~ 10.28)
 - 🇺🇸 [Github Universe 2021](https://githubuniverse.com) (10.27 ~ 10.28)
-- [FEConf 2021](https://2021.feconf.kr/) (10.30)
+- [FEConf 2021](https://2021.feconf.kr/) (10.30) [🎬 Youtube Track A](https://www.youtube.com/playlist?list=PLZl3coZhX98p6gwel6QW86QUwuAmTEZBo) [🎬 Track B](https://www.youtube.com/playlist?list=PLZl3coZhX98qv9ixNHWYkUOnwnW8xXvqD)
 
 ### 11월
 - 🇯🇵 [CloudNative Days 2021 Tokyo](https://event.cloudnativedays.jp/cndt2021) (11.4 ~ 11.5)
