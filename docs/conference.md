@@ -19,7 +19,7 @@
 
 ### 11월
 - 🇯🇵 [CloudNative Days 2021 Tokyo](https://event.cloudnativedays.jp/cicd2021) (11.4 ~ 11.5)
-- 🇰🇷 🇯🇵 [Line Developer Day 2021](https://linedevday.linecorp.com/2021/ko) (11.10 ~ 11.11)
+- 🇰🇷 🇯🇵 [Line Developer Day 2021](https://linedevday.linecorp.com/2021/ko) (11.10 ~ 11.11) [🎬 Youtube](https://www.youtube.com/playlist?list=PLI2S-k0Fa59uUuHm1z3kxCFw8rC8t6G13)
 - [IF KAKAO 2021](https://if.kakao.com) (11.16 ~ 11.18)
 - [우아콘 2021](https://woowacon.com) (11.17 ~ 11.19)
 - [당근 SRE 밋업 2회](https://festa.io/events/1912) (11.17)
