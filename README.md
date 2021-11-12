@@ -8,6 +8,7 @@
 * [Kotlin](docs/kotlin.md)
 * [Markdown](docs/markdown.md)
 * [Modern_linux](docs/modern_linux.md)
+* [Python](docs/python.md)
 * [Tdd](docs/tdd.md)
 * [Terraform](docs/terraform.md)
 
