@@ -27,7 +27,7 @@
 - [Next '21 Recap: Seoul](https://cloudonair.withgoogle.com/events/2021-next-recap-seoul) (11.18)
 - [Samsung SDS Techtonic 2021](https://techtonic.samsungsds.com/techtonic) (11.23 ~ 24)
 - [DEVIEW 2021](https://deview.kr/2021) (11.24 ~ 26)
-
+- 🇯🇵 [Flutter Kaigi 2021](https://flutterkaigi.jp/) (11.29 ~ 30)
 ---
 
 ## 2020년
