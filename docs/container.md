@@ -16,3 +16,6 @@
 ### Docker alternatives
 - [Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)](https://github.com/lima-vm/lima)
 - [containerd & Lima: Open source alternative to Docker for Mac](https://medium.com/nttlabs/containerd-and-lima-39e0b64d2a59)
+
+### Tools
+- [Dive - A tool for exploring a docker image, layer contents, and discovering ways to shrink the size of your Docker/OCI image.](https://github.com/wagoodman/dive)
